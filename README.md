@@ -3,5 +3,5 @@
 > Gerando textos e images com ajax :smile:
 > Um simples script que pega buscar textos e imagens via ajax.
 
-![Elon Musk](exemplo.png)
+![Elon Musk](example.png)
 
