@@ -10,5 +10,6 @@ ajax.onreadystatechange = function(){
 		}
 	}
 }
+
 ajax.open("GET","https://jsonplaceholder.typicode.com/posts")
 ajax.send()
