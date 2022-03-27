@@ -1,2 +1,6 @@
-# Gerando-Cards-com-ajax
-Gerando textos e images com ajax
+# GERANDO CARD COM AJAX 🙂
+
+> Um simples script que pega textos e imagens via ajax :smile:
+
+![Elon Musk](example.PNG)
+
