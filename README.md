@@ -1,4 +1,4 @@
-# GERANDO CARD COM AJAX 🙂
+# GERANDO CARD COM AJAX 🙂Simple Request
 
 > Um simples script que pega textos e imagens via ajax :smile:
 
